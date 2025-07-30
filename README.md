@@ -1,0 +1,2 @@
+# automacao-pesquisa-precos-bing
+
